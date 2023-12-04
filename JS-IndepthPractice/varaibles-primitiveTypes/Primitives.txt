@@ -1,0 +1,23 @@
+Data Types
+Numbers, String, Boolean, null value, undefined value, Objects and Symbols
+
+-number datatype for number any kind : range(±(253-1)0)
+-BigInt used for really bigIngeters eg: cryptography or mircosecond-precision
+
+In js there is no char type like other langauages
+
+Null Value:
+    null value doesnot belong to above 
+    In JS null is not reference to a non-existing object or null pointer like other langauages
+    It just special value which represents "nothing" or "empty"
+
+Undefine Value:
+    -value is not assigned
+    - if varaiable is declared but not assigned then its value is undefined
+    - "while undefined is reserved as a default initial value for unassigned things"
+
+
+-typeof null is object  (this is an error in the language, it’s not actually an object.)
+
+-symbol for unique identifiers
+-object for more complex data-structures
